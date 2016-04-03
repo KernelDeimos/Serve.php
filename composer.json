@@ -1,0 +1,8 @@
+{
+	"name": "dubedev/serve-php",
+	"autoload": {
+		"psr-4": {
+			"Serve\\": "serve/"
+		}
+	}
+}
